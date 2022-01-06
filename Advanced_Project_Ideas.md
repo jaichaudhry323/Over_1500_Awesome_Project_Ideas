@@ -101,7 +101,7 @@
 `101`	Two-Factor Data Security Protection Mechanism for Cloud Storage System (Java / Cloud Computing)<br>
 `102`	A Cloud Brokerage Architecture for Ef?cient Cloud Service Selection (Java / Cloud Computing)<br>
 `103`	SSSD-LB: SRNN Based Secure Slotted Dynamic Load Balancing Scheme (Java / Cloud Computing)<br>
-`104`	A Résumé Evaluation System Based on Text Mining (Python / Cloud Computing)<br>
+`104`	A RÃ©sumÃ© Evaluation System Based on Text Mining (Python / Cloud Computing)<br>
 `105`	Privacy-preserving Association Rule Mining Algorithm for Encrypted Data in Cloud Computing using Elgamal<br>
 `106`	Towards Privacy-preserving Content-based Image Retrieval in Cloud Computing (Python / Cloud Computing)<br>
 `107`	SeSPHR: A Methodology for Secure Sharing of Personal Health Records in the Cloud (Python / Cloud Computing)<br>
