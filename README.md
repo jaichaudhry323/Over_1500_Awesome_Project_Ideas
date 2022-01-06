@@ -1,5 +1,5 @@
-Hi there,<br>
-Are you struggling to find project Ideas for research paper or your resume? <br>
+##### Hi there,<br>
+##### Are you struggling to find project Ideas for research paper or your resume? <br>
 
 ## Well then here it is 🎉🎉🎉<br>
 ### A latest compilation of all projects across the following domains: 
