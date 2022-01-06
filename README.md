@@ -24,8 +24,10 @@ There are total of 1500+ project Ideas which you look from these two files: All_
 
 Then there are specific category based projects which have been extracted from above mentioned All_Project_Ideas.txt file for your convenience :)
 
-- For all `Python` based projects refer  : <a href= "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Python_Based.md">Python.txt </a>
-- For all  `Java` based projects refer   : Java.txt 
-- For all `Web` based projects refer     : Web_Based.txt 
-- For all `Android` based projects refer : Android_Based.txt 
+- For all `Python` based projects refer  : <a href= "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Python_Based.md">Python_Based.md </a>
+- For all  `Java` based projects refer   : <a href= "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Java_Based.md">Java_Based.md </a>
+- For all `Web` based projects refer     : <a href= "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Web_Based.md">Web_Based.md </a>
+- For all `Android` based projects refer : <a href= "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Android_Based.md">Android_Based.md </a>
+
+ 
 
