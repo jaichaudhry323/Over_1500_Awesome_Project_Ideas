@@ -14,12 +14,11 @@
 - Cyber Security
 - Networking
 - Parallel and Distributed Systems
-
-#### Description about the files in the repository:
-
-
+<br>
 Enjoy 😉<br>
 (And don't forget to fork and star this to keep a copy of this repo 😄)
+
+#### Description about the files in the repository:
 
 There are total of 1500+ project Ideas which you look from these two files: All_Project_Ideas.txt and Advanced_Project_Ideas.txt
 
