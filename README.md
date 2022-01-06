@@ -24,7 +24,7 @@ There are total of 1500+ project Ideas which you look from these two files: All_
 
 Then there are specific category based projects which have been extracted from above mentioned All_Project_Ideas.txt file for your convenience :)
 
-- For all `Python` based projects refer  : python.txt 
-- For all  `Java` based projects refer   : java.txt 
-- For all `Web` based projects refer     : Web_based.txt 
-- For all `Android` based projects refer : Android_based.txt 
+- For all `Python` based projects refer  : Python.txt 
+- For all  `Java` based projects refer   : Java.txt 
+- For all `Web` based projects refer     : Web_Based.txt 
+- For all `Android` based projects refer : Android_Based.txt 
