@@ -20,7 +20,8 @@ Enjoy 😉<br>
 
 #### Description about the files in the repository:
 
-There are total of 1500+ project Ideas which you look from these two files: "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/All_Project_Ideas.md">All_Project_Ideas.md </a> and <a href= "https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Advanced_Project_Ideas.md">Advanced_Project_Ideas.md </a>
+There are total of 1500+ project Ideas which you look from these two files: <a href="https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/All_Project_Ideas.md">All_Project_Ideas.md </a> and 
+<a href="https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Advanced_Project_Ideas.md">Advanced_Project_Ideas.md </a>
 
 Then there are specific category based projects which have been extracted from above mentioned All_Project_Ideas.txt file for your convenience :)
 
