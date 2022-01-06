@@ -28,3 +28,12 @@ Then there are specific category based projects which have been extracted from a
 - For all  `Java` based projects refer   : Java.txt 
 - For all `Web` based projects refer     : Web_Based.txt 
 - For all `Android` based projects refer : Android_Based.txt 
+
+
+
+1	Constrained Voting Extreme Learning Machine and its Application (Python / Machine Learning)
+2	Deep Learning Techniques for Garbage Classification (Python / Deep Learning)
+3	A Study of Machine Learning Techniques on Clustering Classification and Regression (Python / Machine Learning)
+4	Aspect Based Sentiment Analysis on Amazon Ear Phone Sales (Python / Machine Learning)
+5	Sentiment Classification from Text Using Deep Learning Algorithm (Python / Machine Learning)
+6	Detection of Distributed Denial of Service Attacks in SDN using Machine learning techniques
