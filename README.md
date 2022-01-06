@@ -1,6 +1,6 @@
 Hi there
 
-Are you struggling to find project Ideas for research paper or resume based projects? <br>
+Are you struggling to find project Ideas for research paper or your resume? <br>
 
 Well then here it is 🎉🎉🎉<br>
 A latest compilation of all projects across multiple domains like 
@@ -10,9 +10,12 @@ A latest compilation of all projects across multiple domains like
 - Deep Learning
 - Cloud Computing
 - Data Science
+- Big Data
+- Data Mining 
 - Cyber Security
+- Networking
 - Parallel and Distributed Systems
 - Java, Python, C++ based etc etc. 
 
 Enjoy 😉
-(And don't forget to fork and star to keep a copy of this repo even if i delete it 😄)
+(And don't forget to fork and star this to keep a copy of this repo 😄)
