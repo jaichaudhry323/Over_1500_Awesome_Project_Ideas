@@ -1,19 +1,19 @@
 Hi there,  <br>
-Are you struggling to find project Ideas for research paper or your resume? <br>
+Are you struggling to find `project Ideas` for `research paper` or your `resume`? <br>
 
 ## Well then here it is 🎉🎉🎉<br>
 ### A latest compilation of all projects across the following domains: 
 - `Web Development` 
-- Android App Development
-- Machine Learning
-- Deep Learning
-- Cloud Computing
-- Data Science
-- Big Data
-- Data Mining 
-- Cyber Security
-- Networking
-- Parallel and Distributed Systems
+- `Android App Development`
+- `Machine Learning`
+- `Deep Learning`
+- `Cloud Computing`
+- `Data Science`
+- `Big Data`
+- `Data Mining` 
+- `Cyber Security`
+- `Networking`
+- `Parallel and Distributed Systems`
 <br>
 Enjoy 😉  
 
