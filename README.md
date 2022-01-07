@@ -17,7 +17,7 @@ Are you struggling to find `project Ideas` for `research paper` or your `resume`
 <br>
 Enjoy 😉  
 
-<p style = "color: green;" <i> `Fork and Star this repository to save a copy :)` </i> </p>
+<p style = "color: green;" <i> Fork and Star this repository to save a copy :) </i> </p>
 
 ### Description about the files in the repository:
 
