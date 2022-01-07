@@ -17,9 +17,9 @@
 <br>
 Enjoy 😉  
 
-##### Fork && star this repository to save a copy :)
+<i> ##### Fork && star this repository to save a copy :) </i>
 
-#### Description about the files in the repository:
+### Description about the files in the repository:
 
 There are total of 1500+ project Ideas which you look from these two files: <a href="https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/All_Project_Ideas.md">All_Project_Ideas </a> and 
 <a href="https://github.com/jaichaudhry323/Over_1500_Awesome_Project_Ideas/blob/main/Advanced_Project_Ideas.md">Advanced_Project_Ideas </a>
