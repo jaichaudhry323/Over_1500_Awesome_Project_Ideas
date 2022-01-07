@@ -16,7 +16,7 @@
 - Parallel and Distributed Systems
 <br>
 Enjoy 😉<br>
-`And don't forget to fork and star this to keep a copy of this repo` 😄
+###### And don't forget to fork and star this to keep a copy of this repo 😄
 
 #### Description about the files in the repository:
 
