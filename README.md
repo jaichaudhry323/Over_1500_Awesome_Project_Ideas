@@ -17,7 +17,7 @@
 <br>
 Enjoy 😉  
 
-<i> Fork && star this repository to save a copy :) </i>
+<p style = "color: green;" <i> Fork && star this repository to save a copy :) </i> </p>
 
 ### Description about the files in the repository:
 
