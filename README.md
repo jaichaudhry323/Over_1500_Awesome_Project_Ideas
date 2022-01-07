@@ -1,4 +1,4 @@
-##### Hi there,<br>
+##### Hi there,
 ##### Are you struggling to find project Ideas for research paper or your resume? <br>
 
 ## Well then here it is 🎉🎉🎉<br>
