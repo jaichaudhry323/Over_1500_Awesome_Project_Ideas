@@ -17,7 +17,7 @@
 <br>
 Enjoy 😉  
 
-<i> ##### Fork && star this repository to save a copy :) </i>
+<i> Fork && star this repository to save a copy :) </i>
 
 ### Description about the files in the repository:
 
